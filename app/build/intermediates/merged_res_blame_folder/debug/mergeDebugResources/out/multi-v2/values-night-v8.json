@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.carlosribeiro.quickjot.app-mergeDebugResources-34:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/carlosribeiro/Library/Application Support/Claude/scratch-workspaces/b32fa01c-51dc-42d6-b1d5-f36b5bb10734/cec61678-c0b2-4220-981d-ed407add4547/scratch-2026-10-09-40e911/QuickJot/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "79",
+                        "endOffsets": "130"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "78",
+                        "endOffsets": "129"
+                    }
+                }
+            ]
+        }
+    ]
+}

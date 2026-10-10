@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.carlosribeiro.quickjot.app-mergeDebugResources-34:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/carlosribeiro/.gradle/caches/9.4.1/transforms/20ba71dec2956ea8f894983b0e9e7d8e/transformed/material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

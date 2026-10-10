@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.carlosribeiro.quickjot.app-debug-36:/drawable_ic_folder.xml.flat",
+        "source": "com.carlosribeiro.quickjot.app-main-38:/drawable/ic_folder.xml"
+    },
+    {
+        "merged": "com.carlosribeiro.quickjot.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.carlosribeiro.quickjot.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.carlosribeiro.quickjot.app-debug-36:/drawable_ic_delete.xml.flat",
+        "source": "com.carlosribeiro.quickjot.app-main-38:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.carlosribeiro.quickjot.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.carlosribeiro.quickjot.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.carlosribeiro.quickjot.app-debug-36:/drawable_ic_add.xml.flat",
+        "source": "com.carlosribeiro.quickjot.app-main-38:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.carlosribeiro.quickjot.app-debug-36:/drawable_ic_more_vert.xml.flat",
+        "source": "com.carlosribeiro.quickjot.app-main-38:/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "com.carlosribeiro.quickjot.app-debug-36:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.carlosribeiro.quickjot.app-main-38:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.carlosribeiro.quickjot.app-debug-36:/drawable_ic_edit.xml.flat",
+        "source": "com.carlosribeiro.quickjot.app-main-38:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.carlosribeiro.quickjot.app-debug-36:/drawable_ic_note.xml.flat",
+        "source": "com.carlosribeiro.quickjot.app-main-38:/drawable/ic_note.xml"
+    }
+]
